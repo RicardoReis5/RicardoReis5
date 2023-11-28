@@ -1,7 +1,8 @@
 ### Olá, eu sou o Ricardo Reis 👋
 
-- 🔭 Hoje sou estudante de banco de dados
-- 🌱 Estudando Python
+Atualmente:
+- 🔭 Segundo semestre de Banco de Dados da Fatec
+- 🌱 Trabalhando com Java e MySQL
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoReis5&count_private=true&show_icons=true&theme=synthwave)](https://github.com/RicardoReis5/github-readme-stats)
 
